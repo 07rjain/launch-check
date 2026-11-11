@@ -1,0 +1,4 @@
+interface:
+  display_name: "Launch Check"
+  short_description: "Check launch readiness and report the biggest gaps"
+  default_prompt: "Use $launch-check to review this product before launch and give me a short report of what is done, missing, and unverified, with prioritized next actions."
